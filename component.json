@@ -1,14 +1,14 @@
 {
   "name": "overlay",
   "description": "Overlay component",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "keywords": [
     "overlay",
     "ui"
   ],
   "dependencies": {
-    "component/emitter": "1.0.0",
-    "component/dom": "0.7.1"
+    "component/emitter": "1.1.2",
+    "component/dom": "1.0.5"
   },
   "scripts": [
     "index.js",
